@@ -1,0 +1,27 @@
+.card {
+    border: 1px solid #eee;
+    /*buat border*/
+    border-radius: 8px;
+    /*sudut border*/
+    padding: 20px;
+    /*jarak tulisan dengan border*/
+    width: 150px;
+    /*panjang card border*/
+    display: inline-block;
+    /*membuat banner menjadi satu row*/
+    margin-right: 5px;
+    /*jarak antar content dengan content lain*/
+}
+
+.title {
+    font-weight: bold;
+    /*ketebalan tulisan*/
+    font-size: x-large;
+    /*besar tulisan*/
+    margin-bottom: 8px;
+    /*jarak antar content bawah*/
+}
+
+p {
+    margin: 0px;
+}
