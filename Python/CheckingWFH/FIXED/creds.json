@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dx-v-telkom-wfh",
+  "private_key_id": "75f54615aeff0e033b8cf68196f7048d80036d5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMLZriDTm0gbum\n4Qyripc16Mw/MJjpueIWPsgOciuYlC1ndOiMBz0TvXuyzIf7BSyH9G1mVkGjfNhY\nCdJe8OiTQzMDfL9i9lIKDXSJPGp7zH8rxp7ESdC2JLgizrQWbJT3A02Pp3S+FAHt\nB+wWSEZHIcxGmPVL2l+UZtrRSH+1vefAi84DPibjInyP439oC2KDiaKb0Q/41AD0\n4PKI6rR9NXVcSIz+XlJNCZKOzxEZ7eMeUCptAHQJvEE6lsMYIN+kM7Bq7YKekz9/\nC6nCWzld1MllwoNa0KBTIIPjzYRNtrNuK4Tts+pCHl7+Qy004u7jBn/VO49QU5n+\n4XBsZgQTAgMBAAECggEABpuqlG47QgskLR/eRbgfgChTRUTyi1O91vkGo70M+5pb\nNoAhhJuOszYh5OwFlYREhKIj7WN48dAAL9KTxtARUK7PQT8HDnWaux8dI0OxBsl4\nfUy1u0mXMEXwEiRSXMVuF7BHgtf+pcKqV7xhZxPhofPVdw5ZtD5EOmy5iwmrJHSn\ndBEMwFVoBriHDKBhDqG2gAhZFECn1qQbpE2sR2kiuOuTUtBWS2YrLV0AwgKAagVr\nJMSakT9ncu3RElnx2aVzau1/R8AnDjEp6hLOUi528alETBl4K9RAYK8QhNBPfdyP\nTHgYh1dpz6imKzP3Y+JBBjRvDJh6WVdLTpSfRUv7CQKBgQDrQbGgemgQnmTrw0oV\nkEMVFZmIe1zFby1E4jcKGqDnmdYwY6g4zWwlYinNWD0IMIsWLXF+gO65It1b3sao\nVnHBcJsAdHoAExWJK9hRVcQlhn16SD9ThODVvNhu57fV0xqjOQyx5XUzOGdz6R5j\nMJWKAbS5XrryZOw1zfpP3JTmKwKBgQDeLmU/K4UywdjuQjRnRgLWO+bIG/5m2gpX\nM/iQZpuPxQxuGee7xbaYxIZtpc5gvbb1XU+WfW3j5dbsXY+dqLX7ryM9YwtTs1qr\nzXpVUjeo825F2fHl8PYkog5n3OtNDr/WLT21goQAifo7qgLLrzOwxL1wDi94/pjf\nKRKs+RKNuQKBgQCP7oFeTYWdpUrZc4G/76MbIzvr5I29vWdU3ZIO/Hu1Nsl0kYQ6\nPHQN6yDoITQ17n0p9GObogZr/oivzHx+QWUXlG1AugJqSULDya9vE6oNy1q5lboo\nvwNPwVopgFtY1u9VLXI25MvvqnKg199fkDntVV3ci7iU1GowAPVEJxByQQKBgGvS\nIBgzyoQDRn75aezkMOQ+VZSu4RqQnYwMEIgjA0MV4R5dO/QH0sD4PjRfznNsHamd\nCs6BOB7snww9q0Bba1UkfPmBYzHPTCUrpj5Zk+FNoSoMxjNMaGcGre8Bar8OdVI+\nyj+Xgu+wBduGeazW7ULPdw82Exuokg9aI1IF3VchAoGBAJBlKliw7l93FFDP5EXi\nlvAdwnCWTCNwtnCo9Sro4wqgYpKpL61zeBBb2RKIHYfIsh3b7WLIq09vVPxShgSN\n4Wgr7CuUTm1DlZP7F/Q4R4HnHFyZVYzbKBTOKDhK1wo3SUpamSaj57gTI5kto6nf\nWAmB/2a3eqQkxXVsASdjjrMZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "rizki-508@dx-v-telkom-wfh.iam.gserviceaccount.com",
+  "client_id": "100099068408762786260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rizki-508%40dx-v-telkom-wfh.iam.gserviceaccount.com"
+}
