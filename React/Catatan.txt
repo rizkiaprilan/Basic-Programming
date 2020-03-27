@@ -1,5 +1,0 @@
-create react ->create-react-app [nama folder]
-
-cara jalaninnya:
-1. cd [nama folder]
-2. npm start

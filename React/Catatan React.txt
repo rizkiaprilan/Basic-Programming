@@ -1,0 +1,8 @@
+create react ->create-react-app [nama folder]
+
+cara jalaninnya:
+1. cd [nama folder]
+2. npm start
+
+Membuat REST CLIENT API:
+1. download library di npm install axios
