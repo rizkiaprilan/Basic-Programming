@@ -1,6 +1,7 @@
 var again = true
 while (again) {
-    var angka = parseInt(prompt('masukkan angka: '))  //ubah tipe datanya menjadi integer
+
+    var angka = parseInt(prompt('masukkan angka: ')) //ubah tipe datanya menjadi integer
     var mod = angka % 2
     switch (mod) {
         case 0:

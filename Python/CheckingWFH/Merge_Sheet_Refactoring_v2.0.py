@@ -153,10 +153,7 @@ def check(start):
             print("row: " + str(x+2) + " UPDATED")
             return 1
             
-        if y != 23:
-            y=y+1
-        else:
-            y = 0
+        
 
 
 try:

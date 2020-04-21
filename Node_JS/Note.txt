@@ -1,0 +1,3 @@
+[dir]/node [file].js =>untuk menjalankan javascript
+
+node init => inisialisasi pertama kali project
