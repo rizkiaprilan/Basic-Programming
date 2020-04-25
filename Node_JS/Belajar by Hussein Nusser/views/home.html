@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Employees Member and Activity</h1>
+    <script>
+        readEmployees()
+        async function readEmployees(){
+            try {
+                
+                const employees = await fetch("http://localhost:8080/employees",{method:"GET"})
+                // employees.forEach(element =>console.log(element.name))
+                employees.array.forEach(element => {
+                    console.log(element.name)
+                });
+            } catch (error) {
+                console.log("Error Reading the employees")
+            }
+        }
+    </script>
+</body>
+</html>

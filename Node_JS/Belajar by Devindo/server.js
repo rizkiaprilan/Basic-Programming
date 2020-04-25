@@ -1,4 +1,5 @@
-const express = require('express')
+// const express = require('express')
+import express from "express"
 const body_parser = require('body-parser')  //conver ke json nya
 const todos = require('./routes/todoRoutes') //route nya di inisialisasi
 const mongoose = require('mongoose')

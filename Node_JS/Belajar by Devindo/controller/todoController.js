@@ -16,7 +16,6 @@ exports.create = (request, response) => {
         } else {
             response.json({ message: "input successed" })
         }
-
     })
 }
 
