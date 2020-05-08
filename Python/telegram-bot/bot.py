@@ -14,7 +14,8 @@ def sendmsg(message, text):
 @bot.message_handler(commands=['start'])
 def startmsg(message):
     text = '''<b>Selamat datang pak rizki ada yang bisa bantu?</b>\nSilahkan ketik <b>Hello</b> dan dapatkan  balasan dari bot ini'''
-    bot.send_message(message.chat.id,text,parser_mode='HTML')
+    # bot.send_message(message.chat.id,text,parser_mode='HTML')
+    bot.send_message(message.chat_id,text,parse_mode='HTML')
 
 @bot.message_handler(func=lambda msg: msg.text is not None) #message bertipe string, bukan function
 def reply_to_message(message):
